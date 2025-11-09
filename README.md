@@ -33,3 +33,4 @@ The following folders contain relevant files and questions covering core, proced
 * **Conditionals**
 * **Functions**
 * **Loops**
+* **Pointers**
